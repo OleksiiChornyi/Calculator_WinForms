@@ -1,0 +1,11 @@
+D:\Git\Calculator_WinForms\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+D:\Git\Calculator_WinForms\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+D:\Git\Calculator_WinForms\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+D:\Git\Calculator_WinForms\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\Git\Calculator_WinForms\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+D:\Git\Calculator_WinForms\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+D:\Git\Calculator_WinForms\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+D:\Git\Calculator_WinForms\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Git\Calculator_WinForms\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Git\Calculator_WinForms\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+D:\Git\Calculator_WinForms\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
